@@ -4,6 +4,11 @@
 
 I'm a **Mobile Developer** who started in the mobile world in 2011, with years of hands-on experience, specializing in building cutting-edge mobile applications across various industries using the best technologies. More than just coding, I bring the best strategic mindset to my projects, ensuring they are as enjoyable to use as they are functional.
 
+## Contact
+[![Contact](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/felippe-dos-santos-ferreira-849645116/)
+
+[![Contact](https://skillicons.dev/icons?i=gmail)](flip_novidade@hotmail.com)
+
 ## Languages
 [![My Skills](https://skillicons.dev/icons?i=kotlin,java,c,swift,javascript,bash,nodejs,npm&perline=18)](https://skillicons.dev)
 
