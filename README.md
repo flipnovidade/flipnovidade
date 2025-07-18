@@ -6,7 +6,6 @@ I'm a **Mobile Developer** who started in the mobile world in 2011, with years o
 
 ## Contact
 [![Contact](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/felippe-dos-santos-ferreira-849645116/)
-
 [![Contact](https://skillicons.dev/icons?i=gmail)](mailto:flip_novidade@hotmail.com)
 
 ## Languages
