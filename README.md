@@ -38,8 +38,8 @@ I'm a **Mobile Developer** who started in the mobile world in 2011, with years o
 ## Infos
 <div>
 <a href="https://github.com/flipnovidade">
-<img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=flipnovidade&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-<img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=flipnovidade&layout=compact&langs_count=15&theme=dark"/>
+<img src="https://streak-stats.demolab.com?user=flipnovidade&theme=dark&hide_border=true" />
+<img src="https://github-profile-trophy.vercel.app/?username=flipnovidade&theme=darkhub&no-frame=true&row=1&column=6" />
 </div>
 
 
