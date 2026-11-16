@@ -39,7 +39,7 @@ I'm a **Mobile Developer** who started in the mobile world in 2011, with years o
 <div>
 <a href="https://github.com/flipnovidade">
 <img src="https://streak-stats.demolab.com?user=flipnovidade&theme=dark&hide_border=true" />
-<img src="https://github-profile-trophy.vercel.app/?username=flipnovidade&theme=darkhub&no-frame=true&row=1&column=6" />
+<img src="https://github-profile-trophy-liard-delta.vercel.app/?username=flipnovidade&theme=tokyonight&no-frame=true&row=1&column=6" />
 </div>
 
 
